@@ -1,0 +1,4 @@
+efficientnet==1.1.1
+numpy==1.18.5
+pandas==1.1.0
+tensorflow-gpu==2.3.0
